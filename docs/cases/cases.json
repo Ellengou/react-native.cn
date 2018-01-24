@@ -313,5 +313,14 @@
 	    "ios": "https://itunes.apple.com/us/app/id218618489?ls=1&mt=8",
 	    "android": "http://web.wolaidai.com/webapp/qxsd/download/download.html?channel=bd_qxsd_share",
 	    "icon": "https://web.wolaidai.com/webapp/qxsd/img/login/logo.png"
+	},
+	{
+	    "name": "龙之游-房车 自驾游 就找龙之游",
+	    "desc": "高端旅游开创者",
+	    "ios": "https://itunes.apple.com/cn/app/id1094156092?mt=8",
+	    "android": "http://app.lzyhll.com/publish/lzyhll-v4.1.8.1.apk",
+	    "icon": "http://img1.goods.lzyhll.com/Fo7XI0VkrWx2Z5jIdwp6i6JLW7TO?103/103"
 	}
+	
+	
 ]
